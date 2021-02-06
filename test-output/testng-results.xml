@@ -5,12 +5,12 @@
       <![CDATA[hello selenium]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-02-06T07:11:09Z" name="Default suite" finished-at="2021-02-06T07:11:09Z" duration-ms="107">
+  <suite started-at="2021-02-06T07:14:07Z" name="Default suite" finished-at="2021-02-06T07:14:07Z" duration-ms="108">
     <groups>
     </groups>
-    <test started-at="2021-02-06T07:11:09Z" name="Default test" finished-at="2021-02-06T07:11:09Z" duration-ms="107">
+    <test started-at="2021-02-06T07:14:07Z" name="Default test" finished-at="2021-02-06T07:14:07Z" duration-ms="108">
       <class name="demo.Test1">
-        <test-method signature="demo()[pri:0, instance:demo.Test1@71e9ddb4]" started-at="2021-02-06T07:11:09Z" name="demo" finished-at="2021-02-06T07:11:09Z" duration-ms="34" status="PASS">
+        <test-method signature="demo()[pri:0, instance:demo.Test1@71e9ddb4]" started-at="2021-02-06T07:14:07Z" name="demo" finished-at="2021-02-06T07:14:07Z" duration-ms="29" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello selenium]]>
